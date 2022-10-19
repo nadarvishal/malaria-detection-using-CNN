@@ -1,0 +1,6 @@
+inside anaconda using anaconda's pip
+
+pip install opencv-python
+
+pip install --upgrade tensorflow
+
