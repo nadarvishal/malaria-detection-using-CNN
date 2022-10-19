@@ -7,4 +7,6 @@ microscope to count the number of infected RBC. Based on the guidelines from the
 WHO protocol, this procedure involves intensive examination of the blood smear at a
 100X magnification, where people manually count red blood cells that contain parasites
 out of 5000 cells. An expert technician is involved in the examination of the slide with
-intense visual and mental concentration. This is tiresome and time- consuming process.
+intense visual and mental concentration. This is tiresome and time- consuming process. 
+So using machine learning to predict whether blood cells are infected by malaria or not 
+using a digital microscope to take the blood cell images.
