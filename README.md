@@ -9,4 +9,8 @@ WHO protocol, this procedure involves intensive examination of the blood smear a
 out of 5000 cells. An expert technician is involved in the examination of the slide with
 intense visual and mental concentration. This is tiresome and time- consuming process. 
 So using machine learning to predict whether blood cells are infected by malaria or not 
-using a digital microscope to take the blood cell images.
+using a digital microscope to take the blood cell images. Researched CNN methodology and 
+implemented the TensorFlow library in which three layers of Conv2D and MaxPooling2D were 
+used to create the prediction model.
+
+Predicted malaria presence way faster than manual detection with better accuracy of 95 percent.
